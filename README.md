@@ -8,4 +8,4 @@ I also wrote the [best<sup>\*</sup> API wrapper for Jamf School](https://github.
 
 <sup>(* = it has no competition, but I think it's great)</sup>
 
-There's also a couple of *old* projects on PyPI that I won't link to, but the total downloads are something like 40,000 😬
+There's also a couple of *old* projects on PyPI that I won't link to, but the total downloads are nearly 80,000 😬
