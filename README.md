@@ -1,4 +1,4 @@
-I currently work at a tech startup in the real estate industry. In my spare time, I like to work on little hobby projects, toy with [Nix](https://github.com/clo4/nix-dotfiles), and maintain [my Minecraft data packs](https://modrinth.com/user/clo4) ([all open source](https://github.com/clo4/datapacks), of course).
+I currently work at a tech startup in the real estate industry. In my spare time, I like to work on little hobby projects, toy with [Nix](https://github.com/clo4/nix-dotfiles), and maintain [my Minecraft data packs](https://modrinth.com/user/clo4) ([all open source](https://github.com/clo4/datapacks), of course). My current project is a compiler that allows me to maintain my data packs in a custom (sane) language and generate equally optimal output to what I would write by hand.
 
 Previously I worked at [Fig](https://fig.io), which has since become Amazon Q. I wrote the fastest, fully complete [JavaScript command-line argument parser](https://github.com/clo4/run-fig) (archived) using the Fig CLI schema.
 
